@@ -1,0 +1,57 @@
+# ספרי הזהב — Generative Engine Optimization Map
+
+> A ספרות ומכירת ספרים business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-961b6154.zappy5.app
+חנות ספרים מקוונת מובילה עם מגוון עצום של ספרים. מכירת ספרים אונליין עם משלוחים מהירים לכל הארץ. הזמינו עכשיו!
+
+### קטלוג ספרים
+https://-961b6154.zappy5.app/catalog
+עיינו בקטלוג הספרים המלא שלנו. קניית ספרים אונליין בישראל בכל הז'אנרים - ספרות, עיון, ילדים ונוער. מחירים מעולים ומשלוחים מהירים!
+
+### אודות
+https://-961b6154.zappy5.app/about
+למדו על ספרי הזהב - חנות ספרים מקוונת משלוחים המובילה בישראל. הסיפור שלנו, הערכים שלנו ומחויבותנו לספק לכם את חוויית קניית הספרים הטובה ביותר.
+
+### צור קשר
+https://-961b6154.zappy5.app/contact
+יש לכם שאלות על מכירת ספרים אונליין? צרו קשר עם ספרי הזהב. אנחנו כאן לעזור לכם למצוא את הספר המושלם. מענה מהיר ושירות אישי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-961b6154.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-961b6154.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-961b6154.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ספרי הזהב
+ספרי הזהב is a business in the ספרות ומכירת ספרים industry.
+
+## Target Audience
+לקוחות מזמינים ספרים דרך האתר
+
+## Industry
+ספרות ומכירת ספרים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-961b6154.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-961b6154.zappy5.app/robots.txt
